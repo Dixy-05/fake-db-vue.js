@@ -43,6 +43,28 @@
       "time": "2:00",
       "petsAllowed": true,
       "organizer": "Dog lover"
+    },
+    {
+      "id": 8519978,
+      "category": "car wash",
+      "title": "Cleaning cars",
+      "description": "Helping people clean their cars",
+      "location": "New Orleans",
+      "date": "July 27,2022",
+      "time": "10:00",
+      "petsAllowed": false,
+      "organizer": "The Cleaning crew"
+    },
+    {
+      "id": 9028321,
+      "category": "Elder's day",
+      "title": "Help the elders",
+      "description": "Help the elders clean their houses",
+      "location": "Elder Town",
+      "date": "August 19,2022",
+      "time": "7:00",
+      "petsAllowed": true,
+      "organizer": "Care for the Elder"
     }
   ]
 }
